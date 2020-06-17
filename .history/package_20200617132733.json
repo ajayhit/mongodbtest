@@ -1,0 +1,17 @@
+{
+  "name": "productapi",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "cors": "2.8.1",
+    "express": "~4.0.0",
+    "mongoose": "^5.9.19"
+  },
+  "author": "ajay",
+  "license": "ISC"
+}
